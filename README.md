@@ -5,8 +5,10 @@
 - 🌱 Constantemente estoy aprendiendo nuevas tecnologias 🤣
 - 👯 Me gusta colaborar en proyectos Open Source y/o hacer de mentor para quien lo necesite
 - 🎤 Co-organizer y Speaker en GDG Ramos Mejía
+- 🎓 Mentor & Profesor en NUCBA
 - 🔈 [Podcast "Rompiendo Codigo"](https://open.spotify.com/show/2FvVJJneKyZ3Thb0gfbVn4)
 - ⚡ Fun fact: Me encantan los Videojuegos!
+
 ### Encuentrenme en:
 
 [<img align="left" alt="sebastianbauer.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
