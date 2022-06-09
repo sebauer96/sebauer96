@@ -42,12 +42,9 @@
 
 ---
 
-### 📕 Articulos de mi Blog sugeridos!
+### 📕 Siganme en mi newsletter/blog!
 <!-- BLOG-POST-LIST:START -->
-- [Crear un bot para Discord con Python!](https://www.sebastianbauer.dev/2020/05/29/crear-bot-discord-python/)
-- [Manejo de Subscripciones con Angular !](https://www.sebastianbauer.dev/2020/08/08/rxjs-en-angular-el-drama-de-las-suscripciones/)
-- [Crear un bot para Twitter con NodeJS](https://www.sebastianbauer.dev/2020/01/11/como-crear-nuestro-bot-de-twitter-con-nodejs/)
-- [Carrito reactivo en Angular con RxJS](https://www.sebastianbauer.dev/2019/12/11/carrito-reactivo-con-angular-y-rxjs/)
+- [Blog!](https://nocodenobug.substack.com/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://sebastianbauer.dev
