@@ -1,7 +1,7 @@
 ### Hola, Soy Sebastián Bauer 👋
 
 ## Fullstack Developer en Angular,NodeJS y Python!
-- 🔭 Actualmente trabajo en Practia Global como Desarrollador Fullstack en Angular y NodeJS!
+- 🔭 Actualmente trabajo en Practia Global como Arquitecto de Software y Cloud!
 - 🌱 Constantemente estoy aprendiendo nuevas tecnologias 🤣
 - 👯 Me gusta colaborar en proyectos Open Source y/o hacer de mentor para quien lo necesite
 - 🎤 Co-organizer y Speaker en GDG Ramos Mejía
