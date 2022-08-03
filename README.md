@@ -4,7 +4,8 @@
 - 🔭 Actualmente trabajo en Practia Global como Arquitecto de Software y Cloud!
 - 🌱 Constantemente estoy aprendiendo nuevas tecnologias 🤣
 - 👯 Me gusta colaborar en proyectos Open Source y/o hacer de mentor para quien lo necesite
-- 🎤 Co-organizer y Speaker en GDG Ramos Mejía<br>- 🎓Game Master y Mentor en NUCBA
+- 🎤 Co-organizer y Speaker en GDG Ramos Mejía
+- 🎓Game Master y Mentor en NUCBA
 -  🔈 [Podcast "Rompiendo Codigo"](https://open.spotify.com/show/2FvVJJneKyZ3Thb0gfbVn4)
 -  ⚡ Fun fact: Me encantan los Videojuegos!
 
