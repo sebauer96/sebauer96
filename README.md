@@ -1,7 +1,6 @@
 # 💫 About Me:
-### Hola, Soy Sebastián Bauer 👋<br><br>
-## Fullstack Developer en Angular, NodeJS y Python!
-- 🔭 Actualmente trabajo en Practia Global como Arquitecto de Software y Cloud!
+### Hola, Soy Sebastián Bauer 👋
+- 🔭 Soy Fullstack Engineer en NodeJS, Angular ó Python
 - 🌱 Constantemente estoy aprendiendo nuevas tecnologias 🤣
 - 👯 Me gusta colaborar en proyectos Open Source y/o hacer de mentor para quien lo necesite
 - 🎤 Co-organizer y Speaker en GDG Ramos Mejía
@@ -10,7 +9,7 @@
 -  ⚡ Fun fact: Me encantan los Videojuegos!
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebauer96) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sebauer96) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sebauer96) 
 
 # 💻 Tech Stack:
