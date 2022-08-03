@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hola, Soy Sebastián Bauer 👋
-- 🔭 Soy Fullstack Engineer en NodeJS, Angular ó Python
+- 🔭 Soy FullStack Engineer en NodeJS, Angular ó Python
 - 🌱 Constantemente estoy aprendiendo nuevas tecnologias 🤣
 - 👯 Me gusta colaborar en proyectos Open Source y/o hacer de mentor para quien lo necesite
 - 🎤 Co-organizer y Speaker en GDG Ramos Mejía
@@ -22,5 +22,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sebauer96&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
 [![](https://visitcount.itsvg.in/api?id=sebauer96&icon=1&color=0)](https://visitcount.itsvg.in)
