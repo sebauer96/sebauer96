@@ -1,4 +1,8 @@
-# 💫 About Me:
+<p align="center">
+  <img align="center" alt="sebastianbauer.dev" src="https://media2.giphy.com/media/4ilFRqgbzbx4c/giphy.gif?cid=ecf05e47o48xarhzx2pretbohjzu8hiwn0t0xsy2deh6r90w&rid=giphy.gif&ct=g" />
+</p>
+
+# 💫 Sobre Mí:
 ### Hola, Soy Sebastián Bauer 👋
 - 🔭 Soy FullStack Engineer en NodeJS, Angular ó Python
 - 🌱 Constantemente estoy aprendiendo nuevas tecnologias 🤣
