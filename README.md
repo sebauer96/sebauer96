@@ -1,6 +1,12 @@
 # 💫 About Me:
 ### Hola, Soy Sebastián Bauer 👋<br><br>
-## Fullstack Developer en Angular, NodeJS y Python!<br>- 🔭 Actualmente trabajo en Practia Global como Arquitecto de Software y Cloud!<br>- 🌱 Constantemente estoy aprendiendo nuevas tecnologias 🤣<br>- 👯 Me gusta colaborar en proyectos Open Source y/o hacer de mentor para quien lo necesite<br>- 🎤 Co-organizer y Speaker en GDG Ramos Mejía<br>- 🎓Game Master y Mentor en NUCBA<br>- 🔈 [Podcast "Rompiendo Codigo"](https://open.spotify.com/show/2FvVJJneKyZ3Thb0gfbVn4)<br>- ⚡ Fun fact: Me encantan los Videojuegos!
+## Fullstack Developer en Angular, NodeJS y Python!
+- 🔭 Actualmente trabajo en Practia Global como Arquitecto de Software y Cloud!
+- 🌱 Constantemente estoy aprendiendo nuevas tecnologias 🤣
+- 👯 Me gusta colaborar en proyectos Open Source y/o hacer de mentor para quien lo necesite
+- 🎤 Co-organizer y Speaker en GDG Ramos Mejía<br>- 🎓Game Master y Mentor en NUCBA
+-  🔈 [Podcast "Rompiendo Codigo"](https://open.spotify.com/show/2FvVJJneKyZ3Thb0gfbVn4)
+-  ⚡ Fun fact: Me encantan los Videojuegos!
 
 
 ## 🌐 Socials:
