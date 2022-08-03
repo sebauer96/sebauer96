@@ -1,5 +1,6 @@
 # 💫 About Me:
-### Hola, Soy Sebastián Bauer 👋<br><br>## Fullstack Developer en Angular, NodeJS y Python!<br>- 🔭 Actualmente trabajo en Practia Global como Arquitecto de Software y Cloud!<br>- 🌱 Constantemente estoy aprendiendo nuevas tecnologias 🤣<br>- 👯 Me gusta colaborar en proyectos Open Source y/o hacer de mentor para quien lo necesite<br>- 🎤 Co-organizer y Speaker en GDG Ramos Mejía<br>- 🎓Game Master y Mentor en NUCBA<br>- 🔈 [Podcast "Rompiendo Codigo"](https://open.spotify.com/show/2FvVJJneKyZ3Thb0gfbVn4)<br>- ⚡ Fun fact: Me encantan los Videojuegos!
+### Hola, Soy Sebastián Bauer 👋<br><br>
+## Fullstack Developer en Angular, NodeJS y Python!<br>- 🔭 Actualmente trabajo en Practia Global como Arquitecto de Software y Cloud!<br>- 🌱 Constantemente estoy aprendiendo nuevas tecnologias 🤣<br>- 👯 Me gusta colaborar en proyectos Open Source y/o hacer de mentor para quien lo necesite<br>- 🎤 Co-organizer y Speaker en GDG Ramos Mejía<br>- 🎓Game Master y Mentor en NUCBA<br>- 🔈 [Podcast "Rompiendo Codigo"](https://open.spotify.com/show/2FvVJJneKyZ3Thb0gfbVn4)<br>- ⚡ Fun fact: Me encantan los Videojuegos!
 
 
 ## 🌐 Socials:
@@ -14,9 +15,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sebauer96&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sebauer96&icon=1&color=0)](https://visitcount.itsvg.in)
