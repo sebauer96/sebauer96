@@ -9,14 +9,28 @@
 - 🔭 Soy FullStack Engineer en NodeJS, Angular ó Python
 - 🌱 Constantemente estoy aprendiendo nuevas tecnologias 🤣
 - 👯 Me gusta colaborar en proyectos Open Source y/o hacer de mentor para quien lo necesite
-- 🎤 Co-organizer y Speaker en GDG Ramos Mejía
-- 🎓Game Master y Mentor en NUCBA
--  🔈 [Podcast "Rompiendo Codigo"](https://open.spotify.com/show/2FvVJJneKyZ3Thb0gfbVn4)
--  ⚡ Fun fact: Me encantan los Videojuegos!
+- ⚡ Fun fact: Me encantan los Videojuegos!
 
+---
+
+## 🔄 Actualmente Estoy Trabajando en...
+_En este momento me encuentro desarrollando y explorando:_
+- **Mercado Libre:** Estoy trabajando en Mercado Libre como Software Engineer.
+- **Inteligencia Artificial y Machine Learning:** Estoy trabajando con alguas LLMs, IAs generativas y más!.
+
+---
+
+## 📬 Contacto Directo
+_Si deseas ponerte en contacto conmigo, puedes hacerlo a través de:_
+- **Email:** [contacto@sebastianbauer.dev](contacto@sebastianbauer.dev)
+- **Redes Sociales:** Conecta conmigo a través de mis perfiles abajo.
+
+---
 
 # 🌐 Redes Sociales
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebauer96) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sebauer96) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sebauer96) [![Substack](https://img.shields.io/badge/Substack-Blog-orange)](https://nocodenobug.substack.com/)
+
+---
 
 # 🚀 Blog
 ### Pueden leerme en mi blog o suscribirse al newsletter, subo contenido de tecnologia siempre! Los espero!
