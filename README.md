@@ -6,9 +6,11 @@
 
 # 💫 Sobre Mí:
 ### Hola, Soy Sebastián Bauer 👋
-- 🔭 Soy FullStack Engineer en NodeJS, Angular ó Python
-- 🌱 Constantemente estoy aprendiendo nuevas tecnologias 🤣
-- 👯 Me gusta colaborar en proyectos Open Source y/o hacer de mentor para quien lo necesite
+- 🔭 Soy Software Engineer, me apasiona la inteligencia artificial.
+- 🌱 Constantemente estoy aprendiendo nuevas tecnologias.
+- 🎙️ Speaker en eventos de tecnología y podcaster.
+- 👯 Me gusta colaborar en proyectos Open Source y/o hacer de mentor para quien lo necesite.
+- 📚 Estudio biotecnología en UNAHUR.
 - ⚡ Fun fact: Me encantan los Videojuegos!
 
 ---
