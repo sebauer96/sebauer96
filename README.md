@@ -17,7 +17,7 @@
 
 ## 🔄 Actualmente Estoy Trabajando en...
 _En este momento me encuentro desarrollando y explorando:_
-- **Mercado Libre:** Estoy trabajando en Mercado Libre como Software Engineer.
+- **The Hackett Group:** Estoy trabajando en THG como AI Engineer.
 - **Inteligencia Artificial y Machine Learning:** Estoy trabajando con alguas LLMs, IAs generativas y más!.
 
 ---
